@@ -1,4 +1,4 @@
-![](https://github.com/gvenzl/gvenzl/blob/master/Old-Obi-Wan-icon.png)  
+![](https://github.com/gvenzl/gvenzl/blob/master/Old-Obi-Wan-icon_128x128.png)  
 *This is not the **[gvenzl](https://twitter.com/GeraldVenzl)** you are looking for...*
 
 <!--
