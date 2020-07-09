@@ -1,4 +1,4 @@
-![this is not the **gvenzl** you are looking for](Old-Obi-Wan-icon.png) this is not the **gvenzl** you are looking for.
+![](https://github.com/gvenzl/gvenzl/blob/master/Old-Obi-Wan-icon.png) this is not the **gvenzl** you are looking for.
 
 <!--
 **gvenzl/gvenzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
