@@ -1,6 +1,10 @@
 ![](https://github.com/gvenzl/gvenzl/blob/master/Old-Obi-Wan-icon_128x128.png)  
 *This is not the **[gvenzl](https://twitter.com/GeraldVenzl)** you are looking for...*
 
+![](https://github-readme-stats.vercel.app/api?username=gvenzl)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=gvenzl)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gvenzl&layout=compact)
+
 <!--
 **gvenzl/gvenzl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
